@@ -1,0 +1,26 @@
+* {
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(46, 0, 44);
+    color:green;
+}
+
+.mem-container {
+    text-align: center;
+    font-size: 2rem;
+    cursor: pointer;
+    color:green;
+}
+
+title {
+    text-align: center;
+}
+
+
+hr {
+  margin: 0;
+}
